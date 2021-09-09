@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+body {
+    padding-top: 50px;
+}
+
+.main {
+    padding: 20px 40px;
+    background-color: #fff;
+}
+
+.main .page-headder {
+    margin-top: 0;
+}
